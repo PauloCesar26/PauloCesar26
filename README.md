@@ -1,6 +1,3 @@
-<img align="center" style="margin-bottom:100px" width=100% src="238154544-9acbb44e-98f8-4f83-82f7-c19408c161cd.png" />
-&nbsp;&nbsp;&nbsp;
-
 <p align="center">Future backend developer! <br><br> I am studying systems development at a technical school, I am passionate about programming languages ​​and I like solving problems using technology. </p>&nbsp;
 
 
