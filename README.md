@@ -48,4 +48,4 @@ A programming student future front-end developer! <br><br>I'm studying systems d
 
   
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#00FF00&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#000&height=120&section=footer"/>
