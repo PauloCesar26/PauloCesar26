@@ -1,5 +1,4 @@
-<h1 font-size="100px">Hello, I'm Paulo Cesar👋🏻</h1>
-<h2>a programming student</h2>
+<h1 font-size="100px">Hello, I'm Paulo Cesar👋🏻 <br><h2>a programming student</h2></h1>
 
 <p align="center" font-family="Verdana" font-size="50px">
 Future front-end developer! <br><br>I'm studying systems development at a technical school, I'm passionate about programming languages ​​and I like developing websites, design, something more visible.</p>&nbsp;
