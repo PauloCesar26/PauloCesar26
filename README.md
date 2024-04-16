@@ -2,7 +2,7 @@
 &nbsp;&nbsp;&nbsp;
 
 <p align="center" font-family="Verdana" font-size="50px">
-A programming student future front-end developer! <br><br>I'm studying systems development at a technical school, I'm passionate about programming languages ​​and I like developing websites, design, something more visible.</p>&nbsp;
+Future front-end developer! <br><br>I'm studying systems development at a technical school, I'm passionate about programming languages ​​and I like developing websites, design, something more visible.</p>&nbsp;
 
 
 ## My Skills
