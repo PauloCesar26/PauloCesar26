@@ -1,7 +1,7 @@
 <img align="center" style="margin-bottom:100px" width=100% src="programming.png" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">
+<p align="center" font-family:"Arial">
 Future front-end developer! <br><br>I'm studying systems development at a technical school, I'm passionate about programming languages ​​and I like developing websites, design, something more visible.</p>&nbsp;
 
 
