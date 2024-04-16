@@ -39,13 +39,12 @@ A programming student future front-end developer! <br><br>I'm studying systems d
 ## Contacts:
 
 <div> 
-<a href="https://www.instagram.com/___.desativado168" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<a href="https://www.instagram.com/newest47.__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
-<a href = "mailto:mikaelcrispims@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.twitter.com/mxkaels" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"  target="_blank"></a> 
+<a href = "mailto:pc.cordeirolima@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>&nbsp;&nbsp;
  
 
   
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=blue&height=120&section=footer"/>
