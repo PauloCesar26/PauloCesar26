@@ -1,4 +1,4 @@
-<img align="center" style="margin-bottom:100px" width=100% src="programing.png" />
+<img align="center" style="margin-bottom:100px" width=100% src="programming.png" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">Future backend developer! <br><br> I am studying systems development at a technical school, I am passionate about programming languages ​​and I like solving problems using technology. </p>&nbsp;
