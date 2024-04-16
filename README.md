@@ -1,4 +1,5 @@
-<h1 font-size="100px">Hello, I'm Paulo Cesar👋🏻</h1>
+<img align="center" style="margin-bottom:100px" width=100% src="programming(1).png" />
+&nbsp;&nbsp;&nbsp;
 
 <p align="center" font-family="Verdana" font-size="50px">
 A programming student future front-end developer! <br><br>I'm studying systems development at a technical school, I'm passionate about programming languages ​​and I like developing websites, design, something more visible.</p>&nbsp;
