@@ -1,4 +1,4 @@
-<img align="center" style="margin-bottom:100px" width=100% src="img.png" />
+<img align="center" style="margin-bottom:100px" width=100% height=50% src="img.png" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center" font-family="Verdana" font-size="50px">
