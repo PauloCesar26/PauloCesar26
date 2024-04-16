@@ -1,7 +1,8 @@
 <img align="center" style="margin-bottom:100px" width=100% src="programming.png" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">Future backend developer! <br><br> I am studying systems development at a technical school, I am passionate about programming languages ​​and I like solving problems using technology. </p>&nbsp;
+<p align="center">
+Future front-end developer! <br><br>I'm studying systems development at a technical school, I'm passionate about programming languages ​​and I like developing websites, design, something more visible.</p>&nbsp;
 
 
 ## My Skills
@@ -22,19 +23,15 @@
 
 #### Studying in this moment:
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 
 #### Databases:
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
 #### Workstation Tools:
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
 
 &nbsp;
