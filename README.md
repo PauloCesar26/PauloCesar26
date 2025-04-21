@@ -1,7 +1,7 @@
 <img align="center" style="margin-bottom:100px" width=100% src="img00.jpeg" />
 &nbsp;&nbsp;&nbsp;
 
-<h1>Visite meu web site mais conhecido como portfólio do Paulo Cesar: EM BREVE ESTARÁ NO AR</h1>&nbsp;
+<h3 align="center">Visite meu web site mais conhecido como portfólio do Paulo Cesar: EM BREVE ESTARÁ NO AR</h3>&nbsp;
 
 ## My Skills
 
