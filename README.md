@@ -1,8 +1,7 @@
 <img align="center" style="margin-bottom:100px" width=100% src="img00.jpeg" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center" font-family="Verdana" font-size="50px">
-Future front-end developer! <br><br>I studied systems development at a technical school, I am passionate about programming languages ​​and I like developing websites, design, something focused on the interface.</p>&nbsp;
+<h1>Visite meu web site mais conhecido como portfólio do Paulo Cesar: EM BREVE ESTARÁ NO AR</h1>&nbsp;
 
 ## My Skills
 
