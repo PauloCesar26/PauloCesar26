@@ -1,7 +1,7 @@
 <img align="center" style="margin-bottom:100px" width=100% src="img00.jpeg" />
 &nbsp;&nbsp;&nbsp;
 
-<h3 align="center">Visite meu web site mais conhecido como portfólio do Paulo Cesar: EM BREVE ESTARÁ NO AR</h3>&nbsp;
+<h3 align="center">Visite meu web site mais conhecido como portfólio do Paulo Cesar: https://portfolio-paulo-cesar.vercel.app/</h3>&nbsp;
 
 ## My Skills
 
