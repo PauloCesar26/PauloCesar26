@@ -15,7 +15,7 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Computador iuriCode">
 
 
 #### Databases:
@@ -30,12 +30,17 @@
 
 &nbsp;
 &nbsp;
+
 ## Contacts:
 <div>
 <a href = "mailto:pc.cordeirolima@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>&nbsp;&nbsp;
- 
+</div>
+&nbsp;
+&nbsp;
 
+ ## Stats:
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=paulocesar26&show_icons=true&locale=en&theme=dark" alt="paulocesar26" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulocesar26&show_icons=true&locale=en&layout=compact&theme=dark" alt="paulocesar26" />
   
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=blue&height=120&section=footer"/>
