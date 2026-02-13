@@ -39,10 +39,7 @@
 &nbsp;
 
  ## Stats:
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=paulocesar26&show_icons=true&locale=en&theme=dark" alt="paulocesar26" />
-## [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulocesar26&show_icons=true&locale=en&theme=dark")](https://github.com/anuraghazra/github-readme-stats)
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=paulocesar26&show_icons=true&locale=en&theme=dark" alt="paulocesar26" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulocesar26&show_icons=true&locale=en&layout=compact&theme=dark" alt="paulocesar26" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloCesar26)](https://github.com/PauloCesar26/github-readme-stats)
   
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=blue&height=120&section=footer"/>
