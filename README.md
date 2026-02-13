@@ -40,6 +40,8 @@
 
  ## Stats:
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=paulocesar26&show_icons=true&locale=en&theme=dark" alt="paulocesar26" />
+## [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulocesar26&show_icons=true&locale=en&theme=dark")](https://github.com/anuraghazra/github-readme-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=paulocesar26&show_icons=true&locale=en&theme=dark" alt="paulocesar26" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulocesar26&show_icons=true&locale=en&layout=compact&theme=dark" alt="paulocesar26" />
   
   
